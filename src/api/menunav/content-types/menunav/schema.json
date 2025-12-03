@@ -1,0 +1,31 @@
+{
+  "kind": "collectionType",
+  "collectionName": "menunavs",
+  "info": {
+    "singularName": "menunav",
+    "pluralName": "menunavs",
+    "displayName": "menunav"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "label": {
+      "type": "string"
+    },
+    "url": {
+      "type": "string"
+    },
+    "logo": {
+      "type": "media",
+      "multiple": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    }
+  }
+}

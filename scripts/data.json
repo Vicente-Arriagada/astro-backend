@@ -1,0 +1,646 @@
+[
+  {
+    "id": "poco-x7-pro-256-black",
+    "nombre": "Xiaomi Poco X7 Pro (256 GB / 12 GB / Black)",
+    "precio": 429990,
+    "categoria": "telefonos",
+    "imagen_url": "/image/celular1.png",
+    "caracteristicas": {
+      "pantalla": "AMOLED 6.7\" táctil (2712x1220) / 120 Hz",
+      "memoria_interna": "256 GB",
+      "ram": "12 GB",
+      "camara_principal": "Estándar 50.0 MP + Gran angular 8.0 MP",
+      "camara_frontal": "Estándar 20.0 MP",
+      "bateria": "6000 mAh",
+      "sistema_operativo": "Android 15",
+      "conectividad_celular": "5G"
+    },
+    "caracteristicas_avanzadas": {
+      "procesador": "MediaTek Dimensity 8400 Ultra (3250 MHz)",
+      "cpu": "ARM Cortex A725 (Single + Triple core) + ARM Cortex A725 (Quad core)",
+      "gpu": "ARM Mali G720 MC7",
+      "peso": "195 g",
+      "tamano": "75 x 161 x 8 mm",
+      "soporte_esim": false
+    },
+    "conectividad_accesorios": {
+      "potencia_carga": "90.0 W",
+      "wifi": true,
+      "gps": true,
+      "nfc": true,
+      "bluetooth": true,
+      "lector_huellas_digitales": true,
+      "almacenamiento_externo": "No",
+      "conector_audifonos": false
+    }
+  },
+  {
+    "id": "samsung-s24-128-onyx",
+    "nombre": "Samsung Galaxy S24 (S921 / 128 GB / 8 GB / Onyx Black)",
+    "precio": 849990,
+    "categoria": "telefonos",
+    "imagen_url": "/image/celular2.png",
+    "caracteristicas": {
+      "pantalla": "Dynamic LTPO AMOLED 2X 6.2\" táctil (2340x1080) / 120 Hz",
+      "memoria_interna": "128 GB",
+      "ram": "8 GB",
+      "camara_principal": "Estándar 50.0 MP + Gran angular 12.0 MP + Teleobjetivo 10.0 MP",
+      "camara_frontal": "Estándar 12.0 MP",
+      "bateria": "4000 mAh",
+      "sistema_operativo": "Android 14",
+      "conectividad_celular": "5G"
+    },
+    "caracteristicas_avanzadas": {
+      "procesador": "Samsung Exynos 2400 (3200 MHz)",
+      "cpu": "ARM Cortex X4 + ARM Cortex A720 + ARM Cortex A520",
+      "gpu": "Samsung Xclipse 940",
+      "peso": "167 g",
+      "tamano": "71 x 147 x 8 mm",
+      "soporte_esim": true
+    },
+    "conectividad_accesorios": {
+      "potencia_carga": "25.0 W",
+      "wifi": true,
+      "gps": true,
+      "nfc": true,
+      "bluetooth": true,
+      "lector_huellas_digitales": true,
+      "almacenamiento_externo": "No"
+    }
+  },
+  {
+    "id": "moto-g85-256-blue",
+    "nombre": "Motorola Moto G85 (256 GB / 8 GB / Cobalt Blue) [PB290005CL]",
+    "precio": 299990,
+    "categoria": "telefonos",
+    "imagen_url": "/image/celular3.png",
+    "caracteristicas": {
+      "pantalla": "P-OLED 6.7\" táctil (2400x1080) / 120 Hz",
+      "memoria_interna": "256 GB",
+      "ram": "8 GB",
+      "camara_principal": "Estándar 50.0 MP + Gran angular 8.0 MP",
+      "camara_frontal": "Estándar 32.0 MP",
+      "bateria": "5000 mAh",
+      "sistema_operativo": "Android 14",
+      "conectividad_celular": "5G"
+    },
+    "caracteristicas_avanzadas": {
+      "procesador": "Qualcomm Snapdragon 6s Gen 3 (2300 MHz)",
+      "cpu": "ARM Cortex A78 (Dual core) + ARM Cortex A55 (Hexa core)",
+      "gpu": "Qualcomm Adreno 619",
+      "peso": "171 g",
+      "tamano": "73 x 162 x 8 mm",
+      "soporte_esim": true
+    },
+    "conectividad_accesorios": {
+      "potencia_carga": "30.0 W",
+      "almacenamiento_externo": "microSD",
+      "wifi": true,
+      "gps": true,
+      "nfc": true,
+      "bluetooth": true,
+      "lector_huellas_digitales": true,
+      "conector_audifonos": false
+    }
+  },
+  {
+    "id": "iphone-14-128-midnight",
+    "nombre": "Apple iPhone 14 (128 GB / Midnight)",
+    "precio": 699990,
+    "categoria": "telefonos",
+    "imagen_url": "/image/celular4.png",
+    "caracteristicas": {
+      "pantalla": "Super Retina XDR OLED 6.1\" táctil (2532x1170) / 60 Hz",
+      "memoria_interna": "128 GB",
+      "ram": "6 GB",
+      "camara_principal": "Estándar 12.0 MP + Gran angular 12.0 MP",
+      "camara_frontal": "Estándar 12.0 MP",
+      "bateria": null,
+      "sistema_operativo": "iOS 16",
+      "conectividad_celular": "5G"
+    },
+    "caracteristicas_avanzadas": {
+      "procesador": "Apple A15 Bionic (3223 MHz)",
+      "cpu": "Apple Avalanche (Dual core) + Apple Blizzard (Quad core)",
+      "gpu": null,
+      "peso": "172 g",
+      "tamano": "72 x 147 x 8 mm",
+      "soporte_esim": true
+    },
+    "conectividad_accesorios": {
+      "potencia_carga": "15.0 W",
+      "wifi": true,
+      "gps": true,
+      "nfc": true,
+      "bluetooth": true,
+      "lector_huellas_digitales": false,
+      "almacenamiento_externo": "No"
+    }
+  },
+  {
+    "id": "samsung-s24-ultra-256-titanium",
+    "nombre": "Samsung Galaxy S24 Ultra (S928 / 256 GB / 12 GB / Titanium Black)",
+    "precio": 1299990,
+    "categoria": "telefonos",
+    "imagen_url": "/image/celular5.png",
+    "caracteristicas": {
+      "pantalla": "Dynamic LTPO AMOLED 2X 6.8\" táctil (3088x1440) / 120 Hz",
+      "memoria_interna": "256 GB",
+      "ram": "12 GB",
+      "camara_principal": "Estándar 200.0 MP + Teleobjetivo Periscopio 50.0 MP + Gran angular 12.0 MP + Teleobjetivo 10.0 MP",
+      "camara_frontal": "Estándar 12.0 MP",
+      "bateria": "5000 mAh",
+      "sistema_operativo": "Android 14",
+      "conectividad_celular": "5G"
+    },
+    "caracteristicas_avanzadas": {
+      "procesador": "Qualcomm Snapdragon 8 Gen 3 (3390 MHz)",
+      "cpu": "ARM Cortex X4 (Single core) + ARM Cortex A720 (Triple core) + ARM Cortex A720 (Dual core)",
+      "gpu": "Qualcomm Adreno 750",
+      "peso": "232 g",
+      "tamano": "79 x 162 x 9 mm",
+      "soporte_esim": true
+    },
+    "conectividad_accesorios": {
+      "potencia_carga": "45.0 W",
+      "wifi": true,
+      "gps": true,
+      "nfc": true,
+      "bluetooth": true,
+      "lector_huellas_digitales": true,
+      "almacenamiento_externo": "No"
+    }
+  },
+  {
+    "id": "xiaomi-14t-512-titanium",
+    "nombre": "Xiaomi 14T (512 GB / 12 GB / Titanium Black)",
+    "precio": 799990,
+    "categoria": "telefonos",
+    "imagen_url": "/image/celular6.png",
+    "caracteristicas": {
+      "pantalla": "AMOLED 6.7\" táctil (2712x1220) / 144 Hz",
+      "memoria_interna": "512 GB",
+      "ram": "12 GB",
+      "camara_principal": "Estándar 50.0 MP + Teleobjetivo 50.0 MP + Gran angular 12.0 MP",
+      "camara_frontal": "Gran angular 32.0 MP",
+      "bateria": "5000 mAh",
+      "sistema_operativo": "Android 14",
+      "conectividad_celular": "5G"
+    },
+    "caracteristicas_avanzadas": {
+      "procesador": "MediaTek Dimensity 9300 Ultra (3350 MHz)",
+      "cpu": "ARM Cortex X4 (Single + Triple core) + ARM Cortex A510 (Quad core)",
+      "gpu": "ARM Mali G615 MC6",
+      "peso": "195 g",
+      "tamano": "75 x 161 x 8 mm",
+      "soporte_esim": true
+    },
+    "conectividad_accesorios": {
+      "potencia_carga": "67.0 W",
+      "wifi": true,
+      "gps": true,
+      "nfc": true,
+      "bluetooth": true,
+      "lector_huellas_digitales": true,
+      "almacenamiento_externo": "No"
+    }
+  },
+  {
+    "id": "lenovo-legion-5-15ahp10-83m0000scl",
+    "nombre": "Lenovo Legion 5 15AHP10 [83M0000SCL]",
+    "precio": 1599990,
+    "imagen_url": "/image/pc1.png",
+    "categoria": "notebook",
+    "caracteristicas": {
+      "procesador": "AMD Ryzen 7 260 (3800 MHz - 5100 MHz)",
+      "ram": "24 GB DDR5 (4800 MHz)",
+      "pantalla": "OLED 15.1\" (2560x1600) / 165 Hz",
+      "almacenamiento": "SSD 1 TB",
+      "tarjetas_de_video": "NVIDIA GeForce RTX 5060 (8 GB) + AMD Radeon 780M (Integrada)"
+    },
+    "puertos": [
+      "1x HDMI 2.1",
+      "1x RJ45 (10 / 100 / 1000 Mbps)",
+      "1x USB 10Gbps Type-C (con señal HDMI / DisplayPort)",
+      "1x USB 40Gbps Type-C (con señal HDMI / DisplayPort)",
+      "3x USB 5Gbps Type-A"
+    ],
+    "especificaciones_secundarias": {
+      "peso": "1900 g.",
+      "dimensiones": "345 x 259 x 22 mm",
+      "sistema_operativo": "Microsoft Windows 11 Home",
+      "otros": "Wi-Fi 7 (802.11be), Adaptador de 245W, Teclado en Español."
+    }
+  },
+  {
+    "id": "acer-predator-helios-neo-16s-phn16s-71-98rf",
+    "nombre": "Acer Predator Helios Neo 16S AI PHN16S-71-98RF [NH.U0KAA.001]",
+    "precio": 2499990,
+    "imagen_url": "/image/pc2.png",
+    "categoria": "notebook",
+    "caracteristicas": {
+      "procesador": "Intel Core Ultra 9 275HX (2100 MHz - 5400 MHz)",
+      "ram": "32 GB DDR5 (6400 MHz)",
+      "pantalla": "OLED 16.0\" (2560x1600) / 240 Hz",
+      "almacenamiento": "SSD 1 TB",
+      "tarjetas_de_video": "NVIDIA GeForce RTX 5070 Ti (12 GB) + Intel Arc 4-Cores iGPU (Integrada)"
+    },
+    "puertos": [
+      "1x RJ45 (100 / 1000 / 2500 Mbps)",
+      "1x Thunderbolt 4 (con señal HDMI / DisplayPort)",
+      "2x USB 10Gbps Type-C",
+      "1x USB 10Gbps Type-A",
+      "1x USB 5Gbps Type-A"
+    ],
+    "especificaciones_secundarias": {
+      "peso": "2300 g.",
+      "dimensiones": "N/A",
+      "sistema_operativo": "Microsoft Windows 11 Home",
+      "otros": "Intel Killer Wi-Fi 6E, Adaptador 230W, Lector MicroSD."
+    }
+  },
+  {
+    "id": "lenovo-loq-15irx10-83ject01wwcl2",
+    "nombre": "Lenovo LOQ 15IRX10 [83JECT01WWCL2]",
+    "precio": 1249990,
+    "imagen_url": "/image/pc3.png",
+    "categoria": "notebook",
+    "caracteristicas": {
+      "procesador": "Intel Core i7-13650HX (3600 MHz - 4900 MHz)",
+      "ram": "32 GB DDR5 (4800 MHz)",
+      "pantalla": "LED 15.6\" (1920x1080) / 144 Hz",
+      "almacenamiento": "SSD 1 TB",
+      "tarjetas_de_video": "NVIDIA GeForce RTX 3050 (6 GB) + Intel UHD Graphics (Integrada)"
+    },
+    "puertos": [
+      "1x HDMI 2.1",
+      "1x RJ45 (10 / 100 / 1000 Mbps)",
+      "1x USB 10Gbps Type-C (con señal HDMI / DisplayPort)",
+      "3x USB 5Gbps Type-A"
+    ],
+    "especificaciones_secundarias": {
+      "peso": "2400 g.",
+      "dimensiones": "360 x 259 x 24 mm",
+      "sistema_operativo": "Microsoft Windows 11 Home",
+      "otros": "Wi-Fi 6 (802.11ax), Adaptador de 245W, Teclado en Español."
+    }
+  },
+  {
+    "id": "msi-thin-15-b13vf-2829us",
+    "nombre": "MSI Thin 15 B13VF-2829US",
+    "precio": 949990,
+    "imagen_url": "/image/pc4.png",
+    "categoria": "notebook",
+    "caracteristicas": {
+      "procesador": "Intel Core i5-13420H (1500 MHz - 4600 MHz)",
+      "ram": "16 GB DDR4 (3200 MHz)",
+      "pantalla": "LED 15.6\" (1920x1080) / 144 Hz",
+      "almacenamiento": "SSD 512 GB",
+      "tarjetas_de_video": "NVIDIA GeForce RTX 4060 (8 GB) + Intel UHD Graphics (Integrada)"
+    },
+    "puertos": [
+      "1x HDMI 2.1",
+      "1x RJ45 (10 / 100 / 1000 Mbps)",
+      "1x USB 2.0",
+      "2x USB 5Gbps Type-A",
+      "1x USB 5Gbps Type-C (con señal HDMI / DisplayPort)"
+    ],
+    "especificaciones_secundarias": {
+      "peso": "2250 g.",
+      "dimensiones": "359 x 259 x 25 mm",
+      "sistema_operativo": "Microsoft Windows 11 Home",
+      "otros": "Intel Wi-Fi 6 AX201, Adaptador 200W, Teclado en Inglés."
+    }
+  },
+  {
+    "id": "acer-nitro-v-15-anv15-42-r50c-1",
+    "nombre": "Acer Nitro V 15 ANV15-42-R50C-1 [NH.QUCAL.001]",
+    "precio": 1199990,
+    "imagen_url": "/image/pc5.png",
+    "categoria": "notebook",
+    "caracteristicas": {
+      "procesador": "AMD Ryzen 7 8845HS (3800 MHz - 5100 MHz)",
+      "ram": "16 GB DDR5 (5600 MHz)",
+      "pantalla": "LED 15.6\" (1920x1080) / 144 Hz",
+      "almacenamiento": "SSD 512 GB",
+      "tarjetas_de_video": "NVIDIA GeForce RTX 4050 (6 GB) + AMD Radeon 780M (Integrada)"
+    },
+    "puertos": [
+      "1x HDMI",
+      "1x RJ45 (100 / 1000 / 2500 Mbps)",
+      "3x USB 5Gbps Type-A",
+      "1x USB 5Gbps Type-C"
+    ],
+    "especificaciones_secundarias": {
+      "peso": "2100 g.",
+      "dimensiones": "362 x 240 x 24 mm",
+      "sistema_operativo": "Microsoft Windows 11 Home",
+      "otros": "Wi-Fi 6 (802.11ax), Teclado en Español."
+    }
+  },
+  {
+    "id": "lenovo-legion-7-16iax10-83ky0028cl",
+    "nombre": "Lenovo Legion 7 16IAX10 [83KY0028CL]",
+    "precio": 2799990,
+    "imagen_url": "/image/pc6.png",
+    "categoria": "notebook",
+    "caracteristicas": {
+      "procesador": "Intel Core Ultra 9 275HX (2100 MHz - 5400 MHz)",
+      "ram": "32 GB DDR5 (6400 MHz)",
+      "pantalla": "OLED 16.0\" (2560x1600) / 165 Hz",
+      "almacenamiento": "SSD 2 TB",
+      "tarjetas_de_video": "NVIDIA GeForce RTX 5070 (8 GB) + Intel Arc 4-Cores iGPU (Integrada)"
+    },
+    "puertos": [
+      "1x HDMI 2.1",
+      "1x Thunderbolt 4 (con señal HDMI / DisplayPort)",
+      "1x USB 10Gbps Type-C (con señal HDMI / DisplayPort)",
+      "2x USB 5Gbps Type-A"
+    ],
+    "especificaciones_secundarias": {
+      "peso": "2000 g.",
+      "dimensiones": "362 x 263 x 18 mm",
+      "sistema_operativo": "Microsoft Windows 11 Home",
+      "otros": "Wi-Fi 7 (802.11be), Adaptador de 245W, Teclado en Español."
+    }
+  },
+  {
+    "id": "logitech-pro-x-superlight-black",
+    "nombre": "Logitech Pro X Superlight - Black (910-005878)",
+    "precio": 119990,
+    "imagen_url": "/image/periferico1.webp",
+    "categoria": "perifericos",
+    "tipo": "Mouse",
+    "especificaciones": {
+      "marca": "Logitech",
+      "tracking": "Logitech Hero [Óptico]",
+      "cantidad_botones": 5,
+      "dpi_maximo": 25600,
+      "cableado": "Inalámbrico",
+      "peso": "63 g",
+      "tamano": "125 x 40 x 64 mm",
+      "dpi_ajustable": true,
+      "color": "Negro"
+    },
+    "avanzados": {
+      "polling_rate": "1000 Hz",
+      "peso_ajustable": false,
+      "lateralidad": "Diestro",
+      "tecnologia": "USB",
+      "iluminacion": false,
+      "fuente_alimentacion": "Batería"
+    }
+  },
+  {
+    "id": "logitech-g502-lightspeed",
+    "nombre": "Logitech G502 Lightspeed (910-005566 / 910-005565)",
+    "precio": 99990,
+    "imagen_url": "/image/periferico2.png",
+    "categoria": "perifericos",
+    "tipo": "Mouse",
+    "especificaciones": {
+      "marca": "Logitech",
+      "tracking": "Logitech Hero [Óptico]",
+      "cantidad_botones": 11,
+      "dpi_maximo": 16000,
+      "cableado": "Inalámbrico",
+      "peso": "114 g",
+      "tamano": "132 x 40 x 75 mm",
+      "dpi_ajustable": true,
+      "color": "Negro"
+    },
+    "avanzados": {
+      "polling_rate": "1000 Hz",
+      "peso_ajustable": true,
+      "lateralidad": "Diestro",
+      "tecnologia": "USB",
+      "iluminacion": "LED Programable",
+      "fuente_alimentacion": "Batería"
+    }
+  },
+  {
+    "id": "redragon-kumara-k552-rainbow-red",
+    "nombre": "Redragon Kumara K552 Rainbow (Español) (Negro - Switch Red)",
+    "precio": 34990,
+    "imagen_url": "/image/periferico3.png",
+    "categoria": "perifericos",
+    "tipo": "Teclado",
+    "especificaciones": {
+      "marca": "Redragon",
+      "tipo": "Mecánico",
+      "categoria": "80% (Tenkeyless)",
+      "retroiluminacion": "RGB (Colores Predelinidos)",
+      "tipo_de_switch": "Redragon Red",
+      "cableado": "Alámbrico",
+      "tecnologia_conexion": "USB 2.0",
+      "teclas_macro": 0,
+      "apoya_munecas": false,
+      "teclas_multimedia": true
+    }
+  },
+  {
+    "id": "razer-huntsman-v3-x-tkl-purple",
+    "nombre": "Razer Huntsman V3 X Tenkeyless - Purple Switch (RZ03-05021700-R311)",
+    "precio": 99990,
+    "imagen_url": "/image/periferico4.png",
+    "categoria": "perifericos",
+    "tipo": "Teclado",
+    "especificaciones": {
+      "marca": "Razer",
+      "part_number": "RZ03-05021700-R311",
+      "tipo": "Mecánico",
+      "categoria": "80% (Tenkeyless)",
+      "retroiluminacion": "RGB (Programable por Software)",
+      "tipo_de_switch": "Razer Clicky Optical Switch",
+      "cableado": "Alámbrico",
+      "tecnologia_conexion": "USB 2.0",
+      "teclas_macro": 0,
+      "apoya_munecas": false,
+      "teclas_multimedia": true
+    }
+  },
+  {
+    "id": "samsung-odyssey-g3-ls24dg300elxzs",
+    "nombre": "Samsung Odyssey G3 [LS24DG300ELXZS]",
+    "precio": 179990,
+    "imagen_url": "/image/periferico5.png",
+    "categoria": "perifericos",
+    "tipo": "Monitor",
+    "especificaciones": {
+      "tipo_pantalla": "LED",
+      "tamano": "24.0\"",
+      "resolucion": "Full HD (1920x1080)",
+      "tasa_de_refresco": "180 Hz",
+      "tiempo_de_respuesta": "1 ms (MPRT)",
+      "curvatura": false,
+      "soporta_freesync": true
+    },
+    "especificaciones_secundarias": {
+      "contraste": "3000:1",
+      "brillo": "250 cd/m²",
+      "puertos_usb": false
+    },
+    "otros": {
+      "tipo_de_panel": "VA",
+      "parlantes": false,
+      "puertos_de_video": "1x DisplayPort, 1x HDMI"
+    }
+  },
+  {
+    "id": "xiaomi-g27qi-p27qca-rggl",
+    "nombre": "Xiaomi G27Qi [P27QCA-RGGL / 57457]",
+    "precio": 249990,
+    "imagen_url": "/image/periferico6.png",
+    "categoria": "perifericos",
+    "tipo": "Monitor",
+    "especificaciones": {
+      "tipo_pantalla": "LED",
+      "tamano": "27.0\"",
+      "resolucion": "Quad HD (2560x1440)",
+      "tasa_de_refresco": "180 Hz",
+      "tiempo_de_respuesta": "1 ms (GTG)",
+      "curvatura": false,
+      "soporta_freesync": true
+    },
+    "especificaciones_secundarias": {
+      "contraste": "1000:1",
+      "brillo": "300 cd/m²",
+      "puertos_usb": false
+    },
+    "otros": {
+      "tipo_de_panel": "IPS",
+      "parlantes": false,
+      "puertos_de_video": "2x DisplayPort 1.4, 2x HDMI 2.0"
+    }
+  },
+  {
+    "id": "pny-rtx-3060-12gb-xlr8",
+    "nombre": "PNY GeForce RTX 3060 12GB XLR8 Gaming REVEL EPIC-X RGB [VCG306012DFXPPB]",
+    "precio": 349990,
+    "imagen_url": "/image/componente1.png",
+    "categoria": "hardware",
+    "tipo": "GPU",
+    "especificaciones": {
+      "fabricante": "PNY",
+      "gpu": "NVIDIA GeForce RTX 3060",
+      "memoria": "12 GB GDDR6 (192 bit)",
+      "bus": "PCI Express 4.0 x16",
+      "frecuencias_core": "1320 / 1777 MHz",
+      "nucleo": "NVIDIA Ampere GA106",
+      "refrigeracion": "Ventilador",
+      "largo": "247 mm",
+      "slots": "Dual slot",
+      "iluminacion": "Sí (RGB)",
+      "backplate": "Sí",
+      "conectores_de_poder": "1x 8 pines",
+      "puertos_de_video": "3x DisplayPort 1.4a, 1x HDMI 2.1"
+    }
+  },
+  {
+    "id": "asus-prime-rtx-5060-oc-8gb",
+    "nombre": "ASUS PRIME GeForce RTX 5060 OC [PRIME-RTX5060-O8G]",
+    "precio": 549990,
+    "imagen_url": "/image/componente2.png",
+    "categoria": "hardware",
+    "tipo": "GPU",
+    "especificaciones": {
+      "fabricante": "ASUS",
+      "gpu": "NVIDIA GeForce RTX 5060",
+      "memoria": "8 GB GDDR7 (128 bit)",
+      "bus": "PCI Express 5.0 x8",
+      "frecuencias_core": "2280 / 2497 / 2595 MHz",
+      "nucleo": "NVIDIA Blackwell 2.0 GB206-250",
+      "refrigeracion": "Ventilador",
+      "largo": "268 mm",
+      "slots": "Dual slot",
+      "iluminacion": null,
+      "backplate": "Sí",
+      "conectores_de_poder": "1x 8 pines",
+      "puertos_de_video": "3x DisplayPort 2.1, 1x HDMI 2.1b"
+    }
+  },
+  {
+    "id": "msi-rtx-5070-ti-16g-gaming-trio-white",
+    "nombre": "MSI GeForce RTX 5070 Ti 16G GAMING TRIO OC WHITE [G507T-16GTCW]",
+    "precio": 1299990,
+    "imagen_url": "/image/componente3.png",
+    "categoria": "hardware",
+    "tipo": "GPU",
+    "especificaciones": {
+      "fabricante": "MSI",
+      "gpu": "NVIDIA GeForce RTX 5070 Ti",
+      "memoria": "16 GB GDDR7 (256 bit)",
+      "bus": "PCI Express 5.0 x16",
+      "frecuencias_core": "2300 / 2452 / 2580 MHz",
+      "nucleo": "NVIDIA Blackwell GB203-300",
+      "refrigeracion": "Ventilador",
+      "largo": "338 mm",
+      "slots": "Dual slot",
+      "iluminacion": "RGB Programable",
+      "backplate": "Sí",
+      "conectores_de_poder": "1x 16 pines (12VHPWR)",
+      "puertos_de_video": "3x DisplayPort 2.1, 1x HDMI 2.1"
+    }
+  },
+  {
+    "id": "amd-ryzen-7-9800x3d",
+    "nombre": "AMD Ryzen 7 9800X3D [100-100001084WOF]",
+    "precio": 449990,
+    "imagen_url": "/image/componente4.png",
+    "categoria": "hardware",
+    "tipo": "CPU",
+    "especificaciones": {
+      "frecuencia": "4700 MHz",
+      "frecuencia_turbo_maxima": "5200 MHz",
+      "nucleos_hilos": "8 núcleos / 16 hilos",
+      "cache": "8 x 1MB L2 / 96MB L3",
+      "socket": "AM5",
+      "nucleo": "AMD Granite Ridge (Zen 5)",
+      "proceso_de_manufactura": "4 nm",
+      "tdp": "120 W",
+      "cooler": "No posee",
+      "graficos_integrados": "No posee"
+    }
+  },
+  {
+    "id": "intel-core-i5-12400f",
+    "nombre": "Intel Core i5-12400F [BX8071512400F]",
+    "precio": 149990,
+    "imagen_url": "/image/componente5.png",
+    "categoria": "hardware",
+    "tipo": "CPU",
+    "especificaciones": {
+      "frecuencia": "2500 MHz",
+      "frecuencia_turbo_maxima": "4400 MHz",
+      "nucleos_hilos": "6 núcleos / 12 hilos",
+      "cache": "6 x 1280KB L2 / 18MB L3",
+      "socket": "LGA 1700",
+      "nucleo": "Intel Alder Lake S (Alder Lake)",
+      "proceso_de_manufactura": "10 nm",
+      "tdp": "65 W",
+      "cooler": "Cooler stock Intel",
+      "graficos_integrados": "No posee"
+    }
+  },
+  {
+    "id": "kingston-fury-beast-rgb-32gb-ddr5-6000",
+    "nombre": "Kingston Fury Beast RGB KF560C30BBAK2-32 (2 x 16 GB | DIMM DDR5-6000)",
+    "precio": 139990,
+    "imagen_url": "/image/componente6.png",
+    "categoria": "hardware",
+    "tipo": "RAM",
+    "especificaciones": {
+      "capacidad": "2 x 16 GB",
+      "tipo": "DDR5",
+      "velocidad": "6000 MT/s",
+      "formato": "DIMM",
+      "voltaje": "1.35 V",
+      "latencia_cl": 30,
+      "latencia_trcd": 36,
+      "latencia_trp": 36,
+      "latencia_tras": 36,
+      "soporte_ecc": "No",
+      "soporte_full_buffered": "No"
+    }
+  }
+]
