@@ -34,7 +34,7 @@ async function migrarDatos() {
                     detalles: detallesUnificados // Aquí guardamos toda la info técnica compleja
                 }
             };
-
+    
             // 3. Enviar a Strapi
             const respuesta = await fetch(STRAPI_URL, {
                 method: 'POST',
