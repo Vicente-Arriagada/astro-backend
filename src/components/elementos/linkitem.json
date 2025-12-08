@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_elementos_linkitems",
+  "info": {
+    "displayName": "linkitem"
+  },
+  "options": {},
+  "attributes": {
+    "label": {
+      "type": "string"
+    },
+    "url": {
+      "type": "string"
+    }
+  },
+  "config": {}
+}

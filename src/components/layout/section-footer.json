@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_layout_section_footers",
+  "info": {
+    "displayName": "SectionFooter"
+  },
+  "options": {},
+  "attributes": {
+    "titulo": {
+      "type": "string"
+    },
+    "links": {
+      "type": "component",
+      "component": "elementos.linkitem",
+      "repeatable": true
+    }
+  },
+  "config": {}
+}

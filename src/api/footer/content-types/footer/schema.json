@@ -1,0 +1,36 @@
+{
+  "kind": "singleType",
+  "collectionName": "footers",
+  "info": {
+    "singularName": "footer",
+    "pluralName": "footers",
+    "displayName": "footer"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "logo": {
+      "type": "media",
+      "multiple": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "marca": {
+      "type": "string"
+    },
+    "eslogan": {
+      "type": "string"
+    },
+    "columnas": {
+      "type": "component",
+      "component": "layout.section-footer",
+      "repeatable": true
+    }
+  }
+}
