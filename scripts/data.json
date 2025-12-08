@@ -642,5 +642,163 @@
       "soporte_ecc": "No",
       "soporte_full_buffered": "No"
     }
+  },
+  {
+    "id": "kingston-nv3-1tb-snv3s",
+    "nombre": "Kingston NV3 1 TB (SNV3S/1000G)",
+    "precio": 73990,
+    "imagen_url": "/image/pendiente_ssd.png",
+    "categoria": "hardware",
+    "tipo": "SSD",
+    "especificaciones": {
+      "capacidad": "1 TB",
+      "formato": "M.2 (2280)",
+      "bus": "PCIe 4.0 x4",
+      "tipo_memoria": "NAND QLC",
+      "controladora": "SMI SM2268XT",
+      "lectura_secuencial": "6000 MB/s",
+      "escritura_secuencial": "4000 MB/s",
+      "dram_cache": "No"
+    }
+  },
+  {
+    "id": "asus-tuf-a15-fa506nc-hn002w",
+    "nombre": "ASUS TUF A15 FA506NC-HN002W [90NR0JF7-M002T0]",
+    "precio": 629990,
+    "imagen_url": "/image/pendiente_notebook_asus.png",
+    "categoria": "notebook",
+    "caracteristicas": {
+      "procesador": "AMD Ryzen 5 7535HS (3300 MHz - 4550 MHz)",
+      "ram": "8 GB DDR5 (4800 MHz)",
+      "pantalla": "LED 15.6\" (1920x1080) / 144 Hz",
+      "almacenamiento": "SSD 512 GB",
+      "tarjetas_de_video": "NVIDIA GeForce RTX 3050 (4 GB) + AMD Radeon 660M (Integrada)"
+    },
+    "puertos": [
+      "1x HDMI 2.1",
+      "1x RJ45 (10 / 100 / 1000 Mbps)",
+      "3x USB 10Gbps Type-A",
+      "1x USB 10Gbps Type-C (con señal HDMI / DisplayPort)"
+    ],
+    "especificaciones_secundarias": {
+      "peso": "2300 g.",
+      "dimensiones": "359 x 256 x 26 mm",
+      "sistema_operativo": "Microsoft Windows 11 Home",
+      "otros": "Wi-Fi 6 (802.11ax), Adaptador 180W, Teclado Español."
+    }
+  },
+  {
+    "id": "apple-macbook-air-13-m4-24gb-512gb",
+    "nombre": "Apple MacBook Air 13 (Early 2025 / M4 / 24 GB / 512 GB / Sky Blue) [MC6V4CI/A]",
+    "precio": 1669990,
+    "imagen_url": "/image/pendiente_macbook.png",
+    "categoria": "notebook",
+    "caracteristicas": {
+      "procesador": "Apple M-Series M4 (10-Core CPU) (2900 MHz - 4400 MHz)",
+      "ram": "24 GB UMA (0 MHz)",
+      "pantalla": "LED 13.6\" (2560x1664) / 60 Hz",
+      "almacenamiento": "SSD 512 GB",
+      "tarjetas_de_video": "Apple M-Series M4 10-Core GPU (Integrada)"
+    },
+    "puertos": [
+      "2x Thunderbolt 4 (con señal HDMI / DisplayPort)"
+    ],
+    "especificaciones_secundarias": {
+      "peso": "1240 g.",
+      "dimensiones": "304 x 215 x 11 mm",
+      "sistema_operativo": "Apple macOS Sequoia",
+      "otros": "Wi-Fi 6E (802.11ax), Adaptador 35W, Teclado Español."
+    }
+  },
+  {
+    "id": "kingston-fury-beast-8gb-ddr5-5600",
+    "nombre": "Kingston Fury Beast KF556C40BB-8 (1 x 8 GB | DIMM DDR5-5600)",
+    "precio": 37990,
+    "imagen_url": "/image/pendiente_ram_kingston.png",
+    "categoria": "hardware",
+    "tipo": "RAM",
+    "especificaciones": {
+      "capacidad": "1 x 8 GB",
+      "tipo": "DDR5",
+      "velocidad": "5600 MT/s",
+      "formato": "DIMM",
+      "voltaje": "1.25 V",
+      "latencia_cl": 40,
+      "latencia_trcd": 40,
+      "latencia_trp": 40,
+      "soporte_ecc": "No",
+      "soporte_full_buffered": "No"
+    }
+  },
+  {
+    "id": "crucial-pro-16gb-ddr5-6400",
+    "nombre": "Crucial Pro CP16G64C38U5B (1 x 16 GB | DIMM DDR5-6400)",
+    "precio": 76900,
+    "imagen_url": "/image/pendiente_ram_crucial.png",
+    "categoria": "hardware",
+    "tipo": "RAM",
+    "especificaciones": {
+      "capacidad": "1 x 16 GB",
+      "tipo": "DDR5",
+      "velocidad": "6400 MT/s",
+      "formato": "DIMM",
+      "voltaje": "1.35 V",
+      "latencia_cl": 38,
+      "latencia_trcd": 38,
+      "latencia_trp": 38,
+      "latencia_tras": 80,
+      "soporte_ecc": "No",
+      "soporte_full_buffered": "No"
+    }
+  },
+  {
+    "id": "asus-prime-radeon-rx-9070-xt-oc",
+    "nombre": "ASUS Prime Radeon RX 9070 XT OC Edition 16GB [90YV0L71-M0AA00]",
+    "precio": 768500,
+    "imagen_url": "/image/pendiente_gpu_asus.png",
+    "categoria": "hardware",
+    "tipo": "GPU",
+    "especificaciones": {
+      "fabricante": "ASUS",
+      "gpu": "AMD Radeon RX 9070 XT",
+      "memoria": "16 GB GDDR6 (256 bit)",
+      "bus": "PCI Express 5.0 x16",
+      "frecuencias_core": "2400 / 2970 / 3030 MHz",
+      "frecuencia_memorias": "2518 MHz",
+      "nucleo": "AMD RDNA 4 Navi 48 XT",
+      "refrigeracion": "Ventilador (Triple)",
+      "largo": "312 mm",
+      "slots": "Dual slot",
+      "conectores_de_poder": "3x 8 pines",
+      "puertos_de_video": "3x DisplayPort 2.1, 1x HDMI 2.1"
+    }
+  },
+  {
+    "id": "lg-ultragear-24gs60f-b",
+    "nombre": "LG UltraGear 24GS60F-B",
+    "precio": 89900,
+    "imagen_url": "/image/pendiente_monitor_lg.png",
+    "categoria": "perifericos",
+    "tipo": "Monitor",
+    "especificaciones": {
+      "tipo_pantalla": "LED",
+      "tamano": "23.8\"",
+      "resolucion": "Full HD (1920x1080)",
+      "tasa_de_refresco": "180 Hz",
+      "tiempo_de_respuesta": "1 ms (GTG)",
+      "curvatura": false,
+      "soporta_freesync": true,
+      "soporta_gsync": true
+    },
+    "especificaciones_secundarias": {
+      "contraste": "1000:1",
+      "brillo": "300 cd/m²",
+      "puertos_usb": false
+    },
+    "otros": {
+      "tipo_de_panel": "IPS",
+      "parlantes": false,
+      "puertos_de_video": "1x DisplayPort 1.4, 1x HDMI 2.0"
+    }
   }
 ]
