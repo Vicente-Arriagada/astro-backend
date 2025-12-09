@@ -11,7 +11,7 @@
   },
   "pluginOptions": {},
   "attributes": {
-    "logo": {
+    "imagen": {
       "type": "media",
       "multiple": false,
       "allowedTypes": [

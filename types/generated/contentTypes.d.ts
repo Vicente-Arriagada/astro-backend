@@ -553,6 +553,32 @@ export interface ApiInicioInicio extends Struct.SingleTypeSchema {
   };
 }
 
+export interface ApiLogoLogo extends Struct.SingleTypeSchema {
+  collectionName: 'logos';
+  info: {
+    displayName: 'logo';
+    pluralName: 'logos';
+    singularName: 'logo';
+  };
+  options: {
+    draftAndPublish: true;
+  };
+  attributes: {
+    createdAt: Schema.Attribute.DateTime;
+    createdBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+    imagen: Schema.Attribute.Media<'images' | 'files' | 'videos' | 'audios'>;
+    locale: Schema.Attribute.String & Schema.Attribute.Private;
+    localizations: Schema.Attribute.Relation<'oneToMany', 'api::logo.logo'> &
+      Schema.Attribute.Private;
+    publishedAt: Schema.Attribute.DateTime;
+    updatedAt: Schema.Attribute.DateTime;
+    updatedBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+    url: Schema.Attribute.String;
+  };
+}
+
 export interface ApiMenunavMenunav extends Struct.CollectionTypeSchema {
   collectionName: 'menunavs';
   info: {
@@ -1168,6 +1194,7 @@ declare module '@strapi/strapi' {
       'api::destactado.destactado': ApiDestactadoDestactado;
       'api::footer.footer': ApiFooterFooter;
       'api::inicio.inicio': ApiInicioInicio;
+      'api::logo.logo': ApiLogoLogo;
       'api::menunav.menunav': ApiMenunavMenunav;
       'api::post.post': ApiPostPost;
       'api::producto.producto': ApiProductoProducto;
