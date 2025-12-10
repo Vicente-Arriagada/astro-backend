@@ -47,3 +47,28 @@ JWT_SECRET=IcpCKGr9NLYXvHMZbvz9zA==
 CLOUDINARY_NAME=dmr55rwxg
 CLOUDINARY_KEY=824387694166623
 CLOUDINARY_SECRET=eYSzFMBI5xTfs4uHHZvE4481kGg
+
+```
+
+4. instalar dependencias
+```bash
+npm install
+```
+5. iniciar proyecto
+```bash
+npm run developer
+```
+el proyecto se iniciara en http://localhost:1337
+La api esta hosteada en https://astro-backend-yryd.onrender.com
+
+
+| Integrante | Rol en el Proyecto | Función Principal | Lo que hizo |
+| :--- | :--- | :--- | :--- |
+| **Pedro Quidiante** | Líder de Proyecto / Frontend | **Lógica y Funcionalidad** | Programó la conexión de datos, las rutas y la navegación del sitio. |
+| **Juan Sánchez** | Configuración y Diseño | **Diseño y Estructura** | Preparó el entorno visual (Tailwind) y la adaptación a celulares. |
+| **Vicente Arriagada** | Líder Backend | **Sistema Backend** | Configuró el panel de administración (Strapi) y los tipos de datos. |
+| **Richard Ortega** | Gestor de Contenido | **Gestión de Contenido** | Se encargó de redactor, organizar y subir toda la información al sistema. |
+
+## Repositorio Frontend
+
+https://github.com/Pedro-Quidiante-00/frontend-tecnomark.git
